@@ -61,7 +61,7 @@ The platform was evaluated through AI model assessment, unit testing, and usabil
 |:--|:--|
 | BMC Model Similarity | **0.7971** (6 of 11 components scored perfect 1.0) |
 | Milestones Model Similarity | **0.6071** (Task generation scored highest at 0.7143) |
-| Usability — Task Success Rate | **100%** |
+| Usability - Task Success Rate | **96%** |
 | User Satisfaction | **5.0 / 5.0** |
 
 > *"These GenAI models provide a solid foundation for micro and small tech startups and founders."*
