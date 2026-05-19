@@ -1,20 +1,19 @@
 <div align="center">
 
-# AI-Empowered Strategic Planning for Tech Startups 🚀
+# GenAI-Empowered Strategic Planning for Tech Startups 🚀
 
 <p>
   <img src="https://img.shields.io/badge/✅_Completed-2ea44f?style=flat-square" alt="Completed"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🌐_Web_Platform-0969da?style=flat-square" alt="Web"/>
+  <img src="https://img.shields.io/badge/🌐_Full_Stack_Web-0969da?style=flat-square" alt="Full-stack web"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🤖_Mistral_AI-7c3aed?style=flat-square" alt="Mistral AI"/>
+  <img src="https://img.shields.io/badge/🤖_GenAI-7c3aed?style=flat-square" alt="GenAI"/>
   &nbsp;
   <img src="https://img.shields.io/badge/🇸🇦_Vision_2030-16a34a?style=flat-square" alt="Vision 2030"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🏫_KAU_Senior_Project-ca8a04?style=flat-square" alt="KAU"/>
 </p>
 
-An AI-driven platform that empowers micro and small tech startups in Saudi Arabia with **personalized business model generation**, **structured goal decomposition**, and **performance tracking** — built to support Vision 2030's growing startup ecosystem.
+An AI-driven platform that empowers micro and small tech startups in Saudi Arabia with **personalized business model generation**, **structured goal decomposition**, and **performance tracking**, built to support Vision 2030's growing startup ecosystem.
 
 [🌐 Landing page Live Demo](https://welcometoawj.vercel.app/)
 
@@ -23,35 +22,34 @@ An AI-driven platform that empowers micro and small tech startups in Saudi Arabi
 ---
 
 <div align="center">
-  <img src="AWJphones.png" alt="AWJ Platform Preview" width="100%"/>
+  <img src="images/AWJphones.png" alt="AWJ Platform Preview" width="97%"/>
 </div>
 
 <p align="center">
-  <img src="AWJ_Lab1.png" alt="Lab Screenshot 1" width="32%"/>
-  <img src="AWJ_Lab2.png" alt="Lab Screenshot 2" width="32%"/>
-  <img src="AWJ_Lab3.png" alt="Lab Screenshot 3" width="32%"/>
+  <img src="images/AWJ_Lab1.png" alt="Lab Screenshot 1" width="32%"/>
+  <img src="images/AWJ_Lab2.png" alt="Lab Screenshot 2" width="32%"/>
+  <img src="images/AWJ_Lab3.png" alt="Lab Screenshot 3" width="32%"/>
 </p>
 
 ---
 
 ## 📌 About The Project
 
-Saudi Arabia's tech startup landscape is booming — over **4,300** computer programming startups were registered in Q2 2024 alone. Yet most micro and small startups still struggle with:
+Saudi Arabia's tech startup landscape is booming over **4,300** computer programming startups were registered in Q2 2024 alone. Yet most micro and small startups still struggle with:
 
 - Building business models that fit their goals and resources
 - Breaking high-level objectives into actionable steps
 - Allocating resources and projecting realistic timelines
 
-**AWJ** tackles all three through a single AI-powered platform. Instead of static templates or expensive consultants, startups get tailored, data-driven strategic plans generated in seconds.
+**AWJ** tackles all three through a single personalized GenAI-powered platform. Instead of static templates or expensive consultants, startups get tailored, data-driven strategic plans generated in seconds.
 
 ### ✨ Key Features
 
 | Feature | Description |
 |:--|:--|
-| **Business Model Canvas Generator** | Analyzes company profile to produce a complete, customized 9-component BMC |
-| **Project Milestone Decomposer** | Breaks goals into sequential milestones with tasks, timelines, KPIs, and risk assessments |
+| **Business Model Canvas Generator GenAI model** | Analyzes company profile to produce a complete, customized 9-component BMC |
+| **Project Milestone Decomposer GenAI model** | Breaks goals into sequential milestones with tasks, timelines, KPIs, and risk assessments |
 | **Interactive Dashboard** | Visualizes progress, tracks milestone completion, and surfaces performance insights |
-| **Personalized AI Recommendations** | Outputs are tailored to each startup's industry, size, and specific characteristics |
 
 ---
 
@@ -66,7 +64,7 @@ The platform was evaluated through AI model assessment, unit testing, and usabil
 | Usability — Task Success Rate | **100%** |
 | User Satisfaction | **5.0 / 5.0** |
 
-> *"These AI models provide a solid foundation for micro and small tech startups and founders."*
+> *"These GenAI models provide a solid foundation for micro and small tech startups and founders."*
 > — Expert reviewer, **Monshaat** (Saudi SME Authority)
 
 ---
@@ -103,7 +101,7 @@ The platform was evaluated through AI model assessment, unit testing, and usabil
 └──────────────────────┬──────────────────────────┘
                        │
               ┌────────▼────────┐
-              │  AI Model Layer │
+              │GenAI Model Layer│
               │ ┌─────────────┐ │
               │ │  BMC Model  │ │
               │ └─────────────┘ │
@@ -122,5 +120,15 @@ The platform was evaluated through AI model assessment, unit testing, and usabil
 ---
 
 <div align="center">
-  <sub>Built with to support Saudi Arabia's Vision 2030 startup ecosystem</sub>
+<img src="https://img.shields.io/badge/+3-Languages-E8912D?style=flat-square&labelColor=1a1a2e" alt="Languages"/>
+&nbsp;
+<img src="https://img.shields.io/badge/+1-Framework-61DAFB?style=flat-square&labelColor=1a1a2e" alt="Framework"/>
+&nbsp;
+<img src="https://img.shields.io/badge/+2-GenAI_Models-7c3aed?style=flat-square&labelColor=1a1a2e" alt="GenAI"/>
+&nbsp;
+<img src="https://img.shields.io/badge/+1-Cloud_Database-FFCA28?style=flat-square&labelColor=1a1a2e" alt="Database"/>
+&nbsp;
+<img src="https://img.shields.io/badge/+3-Platforms_&_Tools-16a34a?style=flat-square&labelColor=1a1a2e" alt="Tools"/>
+&nbsp;
+<img src="https://img.shields.io/badge/+10-Technologies_Total-e05d44?style=flat-square&labelColor=1a1a2e" alt="Total"/>
 </div>
